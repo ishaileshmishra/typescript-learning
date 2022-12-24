@@ -1,0 +1,27 @@
+{
+    "name": "learning-ts",
+    "version": "1.0.0",
+    "description": "The Initial learning of typescript",
+    "main": "app.js",
+    "scripts": {
+        "test": "tests",
+        "start": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ishaileshmishra/typescript-learning.git"
+    },
+    "keywords": [
+        "learnings",
+        "typescript"
+    ],
+    "author": "shaileshmishra",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ishaileshmishra/typescript-learning/issues"
+    },
+    "homepage": "https://github.com/ishaileshmishra/typescript-learning#readme",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
